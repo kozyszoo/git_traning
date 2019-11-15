@@ -1,3 +1,3 @@
 # git_traning
 
-# first change
+* first change
