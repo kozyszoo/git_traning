@@ -7,3 +7,4 @@
 * will be rebased
 * master branch commit2
 * will be cherry-picked
+* will be merged by pull request
