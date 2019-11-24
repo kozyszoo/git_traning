@@ -5,3 +5,4 @@
 * master branch commit
 * will be merged
 * will be rebased
+* master branch commit2
