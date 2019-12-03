@@ -3,8 +3,6 @@
 * first change
 * master branch commit
 * will be merged
-<<<<<<< HEAD
 * will be rebased
-=======
 * master branch commit2
->>>>>>> master branch commit2
+* will be cherry-picked
