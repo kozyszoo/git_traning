@@ -7,3 +7,4 @@
 * master branch commit2
 * master branch commit2-
 * will be merged by pull request
+* thanks for your lecture2
